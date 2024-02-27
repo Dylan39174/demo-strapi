@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "hotels",
+  "info": {
+    "singularName": "hotel",
+    "pluralName": "hotels",
+    "displayName": "Hotels"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "panels": {
+      "type": "dynamiczone",
+      "components": [
+        "panels.heroscreen",
+        "panels.simple"
+      ]
+    }
+  }
+}

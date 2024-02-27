@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "restaurants",
+  "info": {
+    "singularName": "restaurant",
+    "pluralName": "restaurants",
+    "displayName": "Restaurant"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "panels": {
+      "type": "dynamiczone",
+      "components": [
+        "panels.heroscreen",
+        "panels.simple"
+      ]
+    }
+  }
+}

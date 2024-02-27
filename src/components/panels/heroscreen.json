@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_panels_heroscreens",
+  "info": {
+    "displayName": "Heroscreen",
+    "icon": "expand"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

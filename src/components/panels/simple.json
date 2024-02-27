@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_panels_simples",
+  "info": {
+    "displayName": "Simple",
+    "icon": "filter"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "blocks"
+    }
+  }
+}
